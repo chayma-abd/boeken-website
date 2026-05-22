@@ -4,7 +4,7 @@ Naam	BoekenWereld
 Vak	Backend Web
 Datum	22 mei 2026
 Student	Chayma
-📖 Inhoudsopgave
+Inhoudsopgave
 Projectbeschrijving - Functionaliteiten - Problemen tijdens ontwikkeling - Installatiehandleiding - Gebruikte bronnen
 
 1. Projectbeschrijving
@@ -23,6 +23,14 @@ FAQ pagina	Admin kan vragen en antwoorden per categorie toevoegen
 Contactformulier	Bezoekers kunnen berichten sturen, admin kan ze lezen en verwijderen
 3. Problemen tijdens ontwikkeling
 Tijdens het ontwikkelen ben ik een paar problemen tegengekomen. Hieronder leg ik uit wat het probleem was en hoe ik het heb opgelost.
+
+Probleem 5: Moeilijkheden met GitHub
+
+Ik vond het lastig om stap voor stap mijn code naar GitHub te uploaden. Ik was bang dat ik verkeerde bestanden zou uploaden of dat ik dingen zou vergeten.
+
+Uiteindelijk heb ik alle eigen code (controllers, modellen, migrations, views) handmatig toegevoegd met `git add`. Helaas heb ik hierdoor niet alles stap per stap kunnen commiten zoals de docent vroeg. Mijn GitHub geschiedenis bevat daarom niet alle tussenstappen, maar wel de volledige eindcode.
+
+Voor een volgend project begin ik meteen met Git en commit ik na elke kleine wijziging. Dan is de geschiedenis compleet en kan de docent mijn voortgang beter volgen.
 
 Probleem 1: PHP werd niet gevonden in de terminal
 Foutmelding:
